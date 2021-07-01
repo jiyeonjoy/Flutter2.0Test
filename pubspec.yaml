@@ -19,6 +19,8 @@ dependencies:
   bot_toast: ^4.0.1
   cached_network_image: ^3.0.0
   carousel_slider: ^4.0.0
+  channel_talk_flutter:
+    path: ../channel_talk_flutter
 #  channel_talk_flutter: ^1.1.0
   chewie: ^1.2.2
   cupertino_icons: ^1.0.3
