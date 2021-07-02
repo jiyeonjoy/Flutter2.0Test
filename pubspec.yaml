@@ -13,6 +13,8 @@ dependencies:
     sdk: flutter
 
   animations: ^2.0.0
+  apple_sign_in:
+    path: ../flutter_apple_sign_in
 #  apple_sign_in: ^0.1.0
   app_tracking_transparency: ^2.0.1
   auto_size_text: ^3.0.0-nullsafety.0
