@@ -49,6 +49,8 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   flutter_local_notifications: ^6.0.0
+  flutter_masked_text:
+    path: ../flutter-masked-text
 #  flutter_masked_text: ^0.8.0
 #  flutter_full_pdf_viewer: ^1.0.6
   flutter_screenutil: ^5.0.0+2
